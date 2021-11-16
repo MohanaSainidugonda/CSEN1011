@@ -1,4 +1,3 @@
-
 /* Algorithm
 01. Start
 02. Accept Principle (p), Rate of interest (r), Time period(t)
