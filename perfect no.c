@@ -18,3 +18,8 @@ int main(){
   }
   return 0;
 }
+/*
+output:
+Enter a number:6
+6 is a perfect number
+*/
