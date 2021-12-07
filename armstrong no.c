@@ -6,7 +6,7 @@ int main(){
   n1=n;
   while(n1!=0){
     r=n1%10;
-    s=s+(rrr);
+    s=s+(r*r*r);
     n1/=10;
   }
   if(n==s){
