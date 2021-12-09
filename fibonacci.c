@@ -15,3 +15,8 @@ int main(){
   }
   return 0;
 }
+/*
+Output:
+Enter how many numbers required:6
+0 1 1 2 3 5
+*/
