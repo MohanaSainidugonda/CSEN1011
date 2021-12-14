@@ -11,3 +11,12 @@ int main(){
   }
   return 0;
 }
+/*
+Output:
+Ener number of rows:5
+*
+**
+***
+****
+*****
+*/
