@@ -19,3 +19,10 @@ int main(){
   
   return 0;
 }
+/*
+Output:
+Enter a number 123
+Not palindrome321
+Enter a number 101
+Palindrome number101
+*/
