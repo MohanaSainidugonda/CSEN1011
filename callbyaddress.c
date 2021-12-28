@@ -13,3 +13,8 @@ int main()
   printf("\n");
   swap(a,b);
 }
+/*
+Output:
+Before swap 30 20
+After swap 20 30
+*/

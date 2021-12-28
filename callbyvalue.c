@@ -16,6 +16,6 @@ int main()
 }
 /*
 Output:
-Before swap 30 20
-After swap 20 30
+Before swapping 0 1
+After swapping 1 0
 */
