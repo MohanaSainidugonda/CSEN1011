@@ -20,3 +20,12 @@
 [salary.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/887ad02f278c24194e7f0c1de61e14a32a0ee491/salary.c)<br/>
 [simple interest .ms.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/887ad02f278c24194e7f0c1de61e14a32a0ee491/simple%20interest%20%20.ms.c)<br/>
 [subjects.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/887ad02f278c24194e7f0c1de61e14a32a0ee491/subjects.c)<br/>
+
+#Raptor
+
+[Raptor.oore.github.rap](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/Raptor.oore.github.rap)<br/>
+[Raptor.rapa.rap](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/Raptor.rapa.rap)<br/>
+[addition.rap](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/addition.rap)<br/>
+[fibonacci20.rap](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/fibonacci20.rap)<br/>
+[primeorcomposite.rap](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/primeorcomposite.rap)<br/>
+[subjects.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/subjects.c)<br/>
