@@ -1,6 +1,6 @@
 # CSEN1011
 
-#MODULE 1
+## MODULE 1
 
 
 [first.c](https://github.com/MohanaSainidugonda/CSEN1011/blob/ece64928a859e61987308a6f897c7811135e67bf/first.c)<br />
@@ -15,7 +15,7 @@
 [simple interest .ms.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/887ad02f278c24194e7f0c1de61e14a32a0ee491/simple%20interest%20%20.ms.c)<br/>
 [subjects.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/887ad02f278c24194e7f0c1de61e14a32a0ee491/subjects.c)<br/>
 
-#MODULE 2
+## MODULE 2
 
 
 [callbyaddress.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/887ad02f278c24194e7f0c1de61e14a32a0ee491/callbyaddress.c)<br/>
@@ -26,7 +26,7 @@
 [Full pyramid.c](https://github.com/MohanaSainidugonda/CSEN1011/blob/4b0011aa8e76ea5bdaa1d12371c3daaa81e04d9d/Full%20pyramid.c)<br />
 [Inverted Full Pyramid.c](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/887ad02f278c24194e7f0c1de61e14a32a0ee491/Inverted%20Full%20Pyramid.c)<br/>
 
-#Raptor
+## RAPTOR
 
 [Raptor.oore.github.rap](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/Raptor.oore.github.rap)<br/>
 [Raptor.rapa.rap](https://github.com/MohanaSainidugonda/CSEN1011.MS/blob/6b9529f3b13af7c5871505926367b20fc162854f/Raptor.rapa.rap)<br/>
